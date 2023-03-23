@@ -1,5 +1,6 @@
 .blue {
-			background-color:blue
+			background-color:blue;
+	                border-radius: 2px;
 }
 .circle{
 			border-radius:50%;
